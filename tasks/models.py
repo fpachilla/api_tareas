@@ -4,7 +4,7 @@ from django.db import models
 
 from django.db import models
 
-
+# Esta clase define cómo se guarda la información de las tareas
 class Tarea(models.Model):                                          # Estoy creando un modelo Tarea en Django
 
     # Los campos de este modelo van a ser estos:
